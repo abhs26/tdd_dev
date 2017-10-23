@@ -55,6 +55,9 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     # custom users app
     'tdd_dev.users.apps.UsersConfig',
+    #homepage
+    'tdd_dev.home_app'
+
     # Your stuff: custom apps go here
 ]
 
